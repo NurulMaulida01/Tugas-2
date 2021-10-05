@@ -13,7 +13,7 @@ body {
   justify-content: space-around;
   align-items: center;
   border-radius: 10px;
-  background-color: rgba(179, 245, 245, 0.103);
+  background-color: rgb(236, 18, 120);
   flex-wrap: wrap;
   padding: 20px;
 }
